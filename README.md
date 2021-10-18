@@ -3,7 +3,7 @@
 制作で使うイメージを共有する。
 ## レスポンシブ Breakpoints
 
-ChumTechで制作するものは[Bootstrap v5.0](https://getbootstrap.jp/docs/5.0/layout/breakpoints/) の基本に沿って設計する。
+ChumTechで制作するものは[Bootstrap v5.0](https://getbootstrap.jp/docs/5.0/layout/breakpoints/) の基本に則り設計する。
 
 |Breakpoint|Class infix|Dimensions|
 |---|:---:|:---:|
