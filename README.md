@@ -1,6 +1,7 @@
 # イメージ共有リポジトリ
 
 制作で使うイメージを共有する。
+
 ## レスポンシブ Breakpoints
 
 ChumTechで制作するものは[Bootstrap v5.0](https://getbootstrap.jp/docs/5.0/layout/breakpoints/) の基本に則り設計する。
@@ -13,3 +14,20 @@ ChumTechで制作するものは[Bootstrap v5.0](https://getbootstrap.jp/docs/5.
 |Large|lg|≧992px|
 |Extra Large|xl|≧1200px|
 |Extra extra Large|xxl|≧1400px|
+
+## To understand
+
+- 2021/1/28　W3C規格のHTML5は廃止
+- 2021/1/29～　WHATWG（Apple・Mozilla・Opera-2004）のHTMLが標準
+
+### HTML5
+
+- 管轄はWHATWG
+- [HTML Living Standard](https://html.spec.whatwg.org/)
+- [有志の方による日本語化](https://momdo.github.io/html/)
+
+### CSS3
+
+- 管轄はW3C
+- [Cascading Style Sheets](https://www.w3.org/Style/CSS/)
+- [MozillaのMDN Web Docs](https://developer.mozilla.org/ja/docs/Web/CSS)
