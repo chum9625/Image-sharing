@@ -22,7 +22,7 @@ ChumTechで制作するものは[Bootstrap v5.0](https://getbootstrap.jp/docs/5.
 
 ### HTML5
 
-- 管轄はWHATWG
+- 管轄はWHATWG(Web Hypertext Application Technology Working Group)
 - [HTML Living Standard](https://html.spec.whatwg.org/)
 - [有志の方による日本語化](https://momdo.github.io/html/)
 
