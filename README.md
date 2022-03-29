@@ -18,7 +18,7 @@ ChumTechで制作するものは[Bootstrap v5.0](https://getbootstrap.jp/docs/5.
 ## To understand
 
 - 2021/1/28　W3C規格のHTML5は廃止
-- 2021/1/29～　WHATWG（Apple・Mozilla・Opera-2004）のHTMLが標準
+- 2021/1/29～　[WHATWG](https://whatwg.org/)（Apple・Mozilla・Opera-2004）のHTMLが標準
 
 ### HTML5
 
