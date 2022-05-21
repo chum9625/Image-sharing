@@ -31,3 +31,11 @@ ChumTechで制作するものは[Bootstrap v5.0](https://getbootstrap.jp/docs/5.
 - 管轄はW3C
 - [Cascading Style Sheets](https://www.w3.org/Style/CSS/)
 - [MozillaのMDN Web Docs](https://developer.mozilla.org/ja/docs/Web/CSS)
+
+## 画像フォーマット
+
+|画像の種類|フォーマット|
+|---|:---:|
+|写真|jpg|
+|イラストや図形|png または svg|
+|簡単なイラストやロゴやアイコン|svg|
