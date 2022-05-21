@@ -32,10 +32,10 @@ ChumTechで制作するものは[Bootstrap v5.0](https://getbootstrap.jp/docs/5.
 - [Cascading Style Sheets](https://www.w3.org/Style/CSS/)
 - [MozillaのMDN Web Docs](https://developer.mozilla.org/ja/docs/Web/CSS)
 
-## 画像フォーマット
+## 画像フォーマットの使い分け
 
 |画像の種類|フォーマット|
 |---|:---:|
 |写真|jpg|
-|イラストや図形|png または svg|
-|簡単なイラストやロゴやアイコン|svg|
+|イラスト、図形|png または svg|
+|簡単なイラスト、ロゴ、アイコン|svg|
