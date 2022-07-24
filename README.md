@@ -1,22 +1,22 @@
-# 画像制作基準
+# 作業標準
 
-画像制作の決めごと。
+制作の決めごと。
 
 ## ロゴ
 
 - アートボードのサイズはA4
 - 下記4点を作成し納品
 
-|ファイル形式|備考|理由|
+|ファイル形式|仕様|用途|
 |---|:---:|:---:|
 |ai|最新ver|印刷用|
 |eps|ver10|印刷用|
 |png|背景透過|Web用|
-|jpg|背景あり|社内資料利用|
+|jpg|背景あり|社内資料用|
 
 ## レスポンシブ Breakpoints
 
-ChumTechで制作するものは[Bootstrap v5.0](https://getbootstrap.jp/docs/5.0/layout/breakpoints/) の基本に則り設計する。
+[Bootstrap v5.0](https://getbootstrap.jp/docs/5.0/layout/breakpoints/) の基本に則り設計。
 
 |Breakpoint|Class infix|Dimensions|
 |---|:---:|:---:|
