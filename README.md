@@ -16,7 +16,7 @@
 
 ## レスポンシブ Breakpoints
 
-[Bootstrap v5.0](https://getbootstrap.jp/docs/5.0/layout/breakpoints/) の基本に則り設計。
+[Bootstrap v5.0](https://getbootstrap.jp/docs/5.0/layout/breakpoints/) に倣って設計。
 
 |Breakpoint|Class infix|Dimensions|
 |---|:---:|:---:|
