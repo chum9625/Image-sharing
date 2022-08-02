@@ -16,7 +16,7 @@
 
 ## レスポンシブ Breakpoints
 
-[Bootstrap v5.0](https://getbootstrap.jp/docs/5.0/layout/breakpoints/) に倣って設計。
+[Bootstrap v5.0](https://getbootstrap.jp/docs/5.0/layout/breakpoints/) に倣って設計。（網羅する必要はない）
 
 |Breakpoint|Class infix|Dimensions|
 |---|:---:|:---:|
@@ -43,11 +43,3 @@
 - 管轄はW3C
 - [Cascading Style Sheets](https://www.w3.org/Style/CSS/)
 - [MozillaのMDN Web Docs](https://developer.mozilla.org/ja/docs/Web/CSS)
-
-## 画像フォーマットの使い分け
-
-|画像の種類|フォーマット|
-|---|:---:|
-|写真|jpg|
-|イラスト、図形|png または svg|
-|簡単なイラスト、ロゴ、アイコン|svg|
