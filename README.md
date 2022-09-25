@@ -46,4 +46,5 @@
 
 ### Useful
 
-- [ 【PHP】エスケープシーケンス一覧](https://www.php.net/manual/ja/language.types.string.php#language.types.string.syntax.double)
+- [【PHP】エスケープシーケンス一覧](https://www.php.net/manual/ja/language.types.string.php#language.types.string.syntax.double)
+- [【PHP】データ型一覧](https://www.php.net/manual/ja/language.types.php)
