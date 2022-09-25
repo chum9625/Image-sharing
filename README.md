@@ -7,25 +7,25 @@
 - アートボードのサイズはA4
 - 下記4点を作成し納品
 
-|ファイル形式|仕様|用途|
-|---|:---:|:---:|
-|ai|最新ver|印刷用|
-|eps|ver10|印刷用|
-|png|背景透過|Web用|
-|jpg|背景あり|社内資料用|
+| ファイル形式 |   仕様   |    用途    |
+| ------------ | :------: | :--------: |
+| ai           | 最新ver  |   印刷用   |
+| eps          |  ver10   |   印刷用   |
+| png          | 背景透過 |   Web用    |
+| jpg          | 背景あり | 社内資料用 |
 
 ## レスポンシブ Breakpoints
 
 [Bootstrap v5.0](https://getbootstrap.jp/docs/5.0/layout/breakpoints/) に倣って設計。（網羅する必要はない）
 
-|Breakpoint|Class infix|Dimensions|
-|---|:---:|:---:|
-|X-Small|_None_|＜576px|
-|Small|sm|≧576px|
-|Medium|md|≧768px|
-|Large|lg|≧992px|
-|Extra Large|xl|≧1200px|
-|Extra extra Large|xxl|≧1400px|
+| Breakpoint        | Class infix | Dimensions |
+| ----------------- | :---------: | :--------: |
+| X-Small           |   _None_    |  ＜576px   |
+| Small             |     sm      |   ≧576px   |
+| Medium            |     md      |   ≧768px   |
+| Large             |     lg      |   ≧992px   |
+| Extra Large       |     xl      |  ≧1200px   |
+| Extra extra Large |     xxl     |  ≧1400px   |
 
 ## To understand
 
@@ -43,3 +43,7 @@
 - 管轄はW3C
 - [Cascading Style Sheets](https://www.w3.org/Style/CSS/)
 - [MozillaのMDN Web Docs](https://developer.mozilla.org/ja/docs/Web/CSS)
+
+### Useful
+
+- [ 【PHP】エスケープシーケンス一覧](https://www.php.net/manual/ja/language.types.string.php#language.types.string.syntax.double)
